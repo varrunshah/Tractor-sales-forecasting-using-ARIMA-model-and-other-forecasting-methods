@@ -10,7 +10,7 @@ The data set was acquired from the very known [kaggle](https://kaggle.com) platf
 The libraris used in this project are as follows--
 - ggplot2
 - tseries
-- .libPath() - all the required packages and functions are defined and istalled in this folder.
+- .libPath() - all the required packages and functions are defined and installed in this folder.
 
 Now, let us take a look at the execution of the project. We decided to forecast the sales of the tractors for the next three years.
 
